@@ -1,0 +1,4 @@
+@EndUserText.label: 'Vista Articulos'
+define service ZACA_SD_ART {
+  expose ZPACA_CDS_ART;
+}
